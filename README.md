@@ -1,8 +1,8 @@
-# Historical Analysis of Average Virginia Gas Prices (1980-2021)
+# Historical Analysis of Average Virginia Gas Prices (1983-2021)
 
 ## Overview
 
-This project analyzes historical gasoline prices in Virginia from 1980 through 2021 using publicly available data. The goal is to identify long-term trends, seasonal patterns, and periods of significant price volatility.
+This project analyzes historical gasoline prices in Virginia from 1983 through 2021 using publicly available data. The goal is to identify long-term trends, seasonal patterns, and periods of significant price volatility.
 
 ## Research Questions
 
@@ -15,7 +15,7 @@ This analysis seeks to answer the following questions:
 
 ## Data Source
 
-The dataset contains historical average gasoline prices for Virginia from 1980 through 2021.
+The dataset contains historical average gasoline prices for Virginia from 1983 through 2021.
 
 ## Methodology
 
@@ -43,7 +43,7 @@ Charts and summary statistics were created to visualize historical patterns and 
 
 ## Scope
 
-This analysis examines historical Virginia gasoline prices from 1980 through 2021 using the most recent complete years available in the dataset.
+This analysis examines historical Virginia gasoline prices from 1983 through 2021 using the most recent complete years available in the dataset.
 
 ## Limitations
 
