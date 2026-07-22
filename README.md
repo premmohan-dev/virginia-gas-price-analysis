@@ -1,4 +1,4 @@
-# Virginia Gas Price Analysis
+# Average Virginia Gas Price Analysis
 
 ## Project Goal
 Analyze trends in Virginia gasoline prices and compare them to national averages.
@@ -14,3 +14,9 @@ Analyze trends in Virginia gasoline prices and compare them to national averages
 
 ## Status
 Project in progress.
+
+## Data Notes
+
+This project uses publicly available gasoline price data for Virginia.
+
+Gasoline prices vary by city, region, and station. Any statewide averages shown in this analysis should be interpreted as estimates intended to illustrate overall trends rather than exact prices paid by all Virginia drivers.
