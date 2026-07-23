@@ -29,6 +29,7 @@ The analysis includes:
 - Identification of years with the largest price fluctuations
 
 Charts and summary statistics were created to visualize historical patterns and support conclusions.
+All calculated averages were rounded to two decimal places to align with the way gasoline prices are commonly displayed to consumers.
 
 ## Key Findings
 
